@@ -22,3 +22,4 @@ npm install vue-router@next vuex@next
 ```
 然后配置路由设置
 
+test
