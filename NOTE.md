@@ -21,3 +21,4 @@ npm install vue-router@next vuex@next
 │   └── utils          工具函数
 ```
 然后配置路由设置
+
