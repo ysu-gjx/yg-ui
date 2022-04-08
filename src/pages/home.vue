@@ -3,5 +3,5 @@
   <todo-list></todo-list>
 </template>
 <script setup>
-import TodoList from '../components/todo-list.vue';
+import TodoList from '../components/todo-list/todo-list.vue';
 </script>
